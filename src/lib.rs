@@ -1,4 +1,3 @@
-#![feature(use_extern_macros)]
 #![feature(const_fn)]
 
 extern crate base64;
