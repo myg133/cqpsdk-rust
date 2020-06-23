@@ -1,5 +1,3 @@
-#![feature(const_fn)]
-
 extern crate base64;
 extern crate serde;
 #[macro_use]
